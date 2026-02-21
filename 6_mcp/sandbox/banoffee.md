@@ -1,27 +1,44 @@
-# Banoffee Pie Recipe
+# Banoffee pie
+
+Source: BBC Good Food — https://www.bbcgoodfood.com/recipes/banoffee-pie
+
+- Serves: 8–10
+- Difficulty: Easy
+- Prep: 30 mins
+- Cook: 30–35 mins
 
 ## Ingredients
-- 4 bananas, sliced
-- 394g caramel or dulce de leche
-- 300ml double cream
-- Dark chocolate (optional)
 
-### For the pastry
-- 100g butter, chilled (plus extra for greasing)
+For the pastry
+- 100g chilled butter (plus extra for greasing)
 - 200g plain flour
-- 1 medium egg, separated
+- 1 medium egg, separated (use the yolk in the pastry; save the white to brush)
 - 1 tbsp golden caster sugar
+- Very cold water, 1 tbsp at a time
 
-## Method
-1. Make the pastry case: Put butter and flour in a food processor and pulse until it resembles fresh breadcrumbs. Add egg yolk and sugar, pulse again, then add very cold water a tbsp at a time until dough comes together.
-2. Knead dough gently by hand until smooth ball forms. Wrap in cling film and chill for 30 minutes.
-3. Heat oven to 190C/170C fan/gas 4. Grease a 23cm loose bottomed fluted tart tin. Roll out pastry and line the tin, leaving about 0.5cm of pastry over the edge and snip to length.
-4. Line base with baking parchment and weigh down with baking beans/uncooked rice. Bake for 15 minutes. Remove parchment and beans, brush pastry with beaten egg white and bake another 15-20 minutes until golden and cooked. Cool completely.
-5. Spread half the caramel on the pastry case, layer bananas on top, then cover with remaining caramel. Chill in fridge.
-6. Whip the cream until thick and spoon over the tart. Grate dark chocolate over to garnish if using.
+For the filling & topping
+- 394g caramel (or dulce de leche)
+- 4 bananas, sliced
+- 300ml double cream
+- Dark chocolate, for grating (optional)
 
-## Notes
-- Serves 8-10.
-- Prep time: 30 minutes.
-- Cook time: 30-35 minutes.
-- An easy family favorite. Recommended to serve with a generous dollop of cream.
+## Method (summary)
+
+1. Make the pastry: pulse the chilled butter and flour in a food processor until the mixture resembles breadcrumbs. Add the egg yolk and caster sugar and pulse to combine. Add very cold water 1 tbsp at a time, pulsing, until the dough just comes together.
+
+2. Bring the dough together on the work surface with your hands until smooth. Wrap in cling film and chill for 30 minutes.
+
+3. Heat the oven to 190°C/170°C fan/gas 5 (190°C listed on source). Grease a 23cm loose-bottomed fluted tart tin. Roll out the chilled pastry and line the tin, leaving about ½ cm overhang; trim with scissors.
+
+4. Line the base with baking parchment and baking beans (or uncooked rice) and blind-bake for 15 minutes. Remove the paper and beans, brush the base with the reserved beaten egg white, and return to the oven for a further 15–20 minutes until crisp and golden. Leave to cool completely (the case can be made a day ahead).
+
+5. Spread half the caramel over the cooled pastry case, arrange a layer of sliced bananas, then spoon over the remaining caramel. Chill in the fridge to set the filling.
+
+6. Whip the double cream until billowy/thick and spoon over the top of the tart just before serving. Finely grate dark chocolate over the cream if using.
+
+## Notes & tips
+- You can use ready-made dulce de leche or make caramel from condensed milk (follow safe instructions for boiling condensed milk if you choose that method).
+- The pastry case can be made ahead and frozen (without filling). If short on time, a buttery biscuit base is a quicker alternative.
+- Best to add the whipped cream on the day you serve the pie to keep it fresh.
+
+Enjoy your banoffee pie!
